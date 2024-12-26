@@ -15,11 +15,12 @@ text_classification/
 │   ├── predict.py    # Prediction logic
 ├── requirements.txt   # Dependencies
 └── README.md          # Documentation
-
+```
 
 ## Install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 ## Deployment
 ```bash
