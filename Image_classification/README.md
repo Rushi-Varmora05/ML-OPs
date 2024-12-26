@@ -26,9 +26,9 @@ This project focuses on building and deploying an image classification model usi
 
 
 ## Install the required packages:
-    ```sh
+```sh
     pip install -r requirements.txt
-    ```
+```
 
 ## Usage
 
