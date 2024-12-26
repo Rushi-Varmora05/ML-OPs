@@ -21,8 +21,9 @@ text_classification/
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Deployment
 ```bash
 uvicorn app.main:app --reload
-
+```
